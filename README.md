@@ -2,7 +2,8 @@
 Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-github/) de [platzi](https://platzi.com/home)
 >El curso de Git y Github de platzi es lo me hacia falta
 
->persona que comenta
+>persona que comenta como le parece el curso
+
 
 ##En este curso veremos de todo:
 *Todos los comandosde Git
